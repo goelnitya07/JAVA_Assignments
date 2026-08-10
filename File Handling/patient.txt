@@ -1,0 +1,4 @@
+Patient ID: 287
+Name: Nitya
+Age: 18
+Diagnosis: Fever

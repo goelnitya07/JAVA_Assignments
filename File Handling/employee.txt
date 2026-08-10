@@ -1,0 +1,4 @@
+Employee ID: 287
+Name: Nitya
+Department: Computer Science
+Salary: 5000000
